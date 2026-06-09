@@ -104,6 +104,32 @@ nav a {
     font-size: 0.95rem;
 }
 
+nav a[aria-current="page"] {
+    color: var(--primary-color);
+    font-weight: 700;
+    position: relative;
+}
+
+nav a[aria-current="page"]::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -0.4rem;
+    height: 3px;
+    border-radius: 999px;
+    background: var(--accent-color);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: 3px solid rgba(255, 204, 0, 0.45);
+    outline-offset: 3px;
+}
+
 /* Mobile Nav Toggle */
 .nav-toggle {
     display: none;
@@ -120,6 +146,12 @@ nav a {
     color: var(--white);
     padding: 5rem 0;
     text-align: center;
+}
+
+.hero.image-hero {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /* Video Hero Styles */
@@ -372,6 +404,12 @@ footer a:hover {
     nav a {
         display: block;
         padding: 1rem 2rem;
+    }
+
+    nav a[aria-current="page"]::after {
+        left: 2rem;
+        right: 2rem;
+        bottom: 0.65rem;
     }
     
     .hero h1 {
