@@ -1,0 +1,38 @@
+# DrDarrenSpeaks.com
+
+DrDarrenSpeaks.com is the official speaking and media site for Dr. Darren Pulsipher.
+
+Dr. Darren Pulsipher is an AI keynote speaker, author, professor, podcast host, and enterprise technology leader. He helps executives, universities, and public-sector organizations become AI-augmented by connecting strategy, governance, workflows, and human accountability.
+
+Primary topics:
+- AI-Augmented Leadership
+- Becoming an AI-Augmented Organization
+- Generative AI Strategy
+- Public Sector AI and Digital Transformation
+- Reliable AI Execution
+- Future of Work
+- AI Governance
+- Digital Transformation
+
+Important pages:
+- /about/dr-darren-pulsipher/
+- /keynotes/
+- /keynotes/ai-augmented-leadership/
+- /keynotes/becoming-ai-augmented-organization/
+- /keynotes/reliable-ai-execution/
+- /keynotes/public-sector-ai-digital-transformation/
+- /keynotes/future-of-work-ai/
+- /keynotes/generative-ai-strategy-executives/
+- /workshops/
+- /workshops/ai-executive-workshop/
+- /workshops/team-ai-enablement/
+- /workshops/becoming-ai-augmented/
+- /workshops/ai-augmented-education/
+- /workshops/public-sector-ai-strategy/
+- /media-kit/
+- /podcasts/
+- /contact/
+
+Related properties:
+- https://paidar.ai/
+- https://embracingdigital.org/
