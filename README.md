@@ -9,20 +9,18 @@ This is the static website for Dr. Darren Pulsipher (drdarrenspeaks.com), rebuil
 - **SEO:** Optimized with meta tags, Open Graph, and JSON-LD schema.
 
 ## Site Structure
-- `index.html`: Home page (AI Keynote Speaker & Advisor)
-- `speaking.html`: Overview of speaking topics and formats
-- `ai-keynote-speaker.html`: Deep dive into AI-specific speaking
-- `digital-transformation-speaker.html`: Deep dive into transformation speaking
-- `workshops.html`: Executive AI workshops and briefings
-- `government-ai-speaker.html`: Targeted content for public sector
-- `higher-education-ai-speaker.html`: Targeted content for universities
-- `book.html`: AI-Augmented Teams book details
-- `works.html`: Full catalog of books, patents, and articles
-- `podcasts.html`: Podcast authority and links
-- `about.html`: Dr. Darren Pulsipher bio and credentials
-- `community.html`: Newsletter and community signup
-- `contact.html`: Booking inquiry form placeholder
-- `privacy.html`: Privacy policy
+- `index.html`: Home page for event planners
+- `aaos/index.html`: AAOS overview and framework
+- `keynotes/index.html`: Keynote hub and topic pages
+- `workshops/index.html`: Workshop hub and offerings
+- `book-darren/index.html`: Booking inquiry page
+- `media-kit/index.html`: Bios, headshots, speaker reel, and booking assets
+- `about/index.html`: Dr. Darren Pulsipher bio and credentials
+- `books/index.html`: Book hub
+- `podcasts/index.html`: Podcast authority and links
+- `resources/index.html`: AAOS resource library
+- `testimonials/index.html`: Social proof and audience feedback
+- `privacy/index.html`: Privacy policy
 
 ## Assets
 - `assets/css/styles.css`: Shared professional styles
@@ -31,9 +29,9 @@ This is the static website for Dr. Darren Pulsipher (drdarrenspeaks.com), rebuil
 
 ## Local Preview
 To preview the site locally, you can use any static file server.
-For example, with Python:
+For example, with Node:
 ```bash
-python -m http.server
+npx serve .
 ```
 Then visit `http://localhost:8000`.
 

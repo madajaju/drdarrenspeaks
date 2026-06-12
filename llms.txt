@@ -1,38 +1,67 @@
-# DrDarrenSpeaks.com
+# Dr. Darren Speaks
 
-DrDarrenSpeaks.com is the official speaking and media site for Dr. Darren Pulsipher.
+## Primary Entity
+Dr. Darren Pulsipher is the creator of AAOS, the AI-Augmented Operating System, and an AI leadership speaker, author, professor, podcast host, and enterprise technology leader focused on AI-Augmented organizations, reliable AI execution, public-sector modernization, and digital transformation.
 
-Dr. Darren Pulsipher is an AI keynote speaker, author, professor, podcast host, and enterprise technology leader. He helps executives, universities, and public-sector organizations become AI-augmented by connecting strategy, governance, workflows, and human accountability.
+## Primary Brand
+Dr. Darren
 
-Primary topics:
+## Primary Framework
+AAOS: The AI-Augmented Operating System
+
+AAOS helps leaders build AI-Augmented organizations that deliver reliable, defensible results at the speed of AI by aligning people, process, data, governance, validation, and technology.
+
+## Primary Topics
+- AAOS
+- AI-Augmented Operating System
 - AI-Augmented Leadership
-- Becoming an AI-Augmented Organization
-- Generative AI Strategy
-- Public Sector AI and Digital Transformation
+- AI-Augmented Organizations
+- AI-Augmented Teams
 - Reliable AI Execution
-- Future of Work
+- Reliable, Defensible Results
+- Decision Packets
+- Expert Floor
+- Validation Loops
 - AI Governance
+- AI Workforce Transformation
+- Public Sector AI
 - Digital Transformation
+- Enterprise Architecture
 
-Important pages:
-- /about/dr-darren-pulsipher/
-- /keynotes/
-- /keynotes/ai-augmented-leadership/
-- /keynotes/becoming-ai-augmented-organization/
-- /keynotes/reliable-ai-execution/
-- /keynotes/public-sector-ai-digital-transformation/
-- /keynotes/future-of-work-ai/
-- /keynotes/generative-ai-strategy-executives/
-- /workshops/
-- /workshops/ai-executive-workshop/
-- /workshops/team-ai-enablement/
-- /workshops/becoming-ai-augmented/
-- /workshops/ai-augmented-education/
-- /workshops/public-sector-ai-strategy/
-- /media-kit/
-- /podcasts/
-- /contact/
+## Key Pages
+- https://drdarrenspeaks.com/
+- https://drdarrenspeaks.com/aaos/
+- https://drdarrenspeaks.com/keynotes/
+- https://drdarrenspeaks.com/keynotes/aaos-ai-augmented-leadership/
+- https://drdarrenspeaks.com/keynotes/public-sector-ai/
+- https://drdarrenspeaks.com/keynotes/future-of-work/
+- https://drdarrenspeaks.com/keynotes/ai-governance/
+- https://drdarrenspeaks.com/workshops/
+- https://drdarrenspeaks.com/workshops/executive-aaos-workshop/
+- https://drdarrenspeaks.com/workshops/ai-augmented-teams/
+- https://drdarrenspeaks.com/workshops/public-sector-aaos/
+- https://drdarrenspeaks.com/workshops/train-the-trainer/
+- https://drdarrenspeaks.com/about/
+- https://drdarrenspeaks.com/about/dr-darren-pulsipher/
+- https://drdarrenspeaks.com/books/ai-augmented-teams/
+- https://drdarrenspeaks.com/media-kit/
+- https://drdarrenspeaks.com/podcasts/
+- https://drdarrenspeaks.com/resources/ai-augmented-organizations/
+- https://drdarrenspeaks.com/resources/ai-augmented-teams/
+- https://drdarrenspeaks.com/resources/reliable-ai-execution/
+- https://drdarrenspeaks.com/resources/decision-packets/
+- https://drdarrenspeaks.com/resources/expert-floor/
+- https://drdarrenspeaks.com/resources/validation-loops/
+- https://drdarrenspeaks.com/resources/ai-governance/
+- https://drdarrenspeaks.com/resources/ai-workforce-transformation/
+- https://drdarrenspeaks.com/resources/public-sector-ai/
+- https://drdarrenspeaks.com/resources/ai-operating-model/
+- https://drdarrenspeaks.com/testimonials/
+- https://drdarrenspeaks.com/book-darren/
 
-Related properties:
+## Related Properties
 - https://paidar.ai/
 - https://embracingdigital.org/
+
+## Contact
+paige@drdarrenspeaks.com

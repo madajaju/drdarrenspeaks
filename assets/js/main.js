@@ -1,7 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const navToggle = document.querySelector('.nav-toggle');
     const nav = document.querySelector('nav');
-    const currentPath = window.location.pathname.replace(/\/$/, '') || '/';
+    const normalizePath = path => {
+        const stripped = path.replace(/index\.html$/, '').replace(/\.html$/, '').replace(/\/$/, '');
+        return stripped || '/';
+    };
+    const currentPath = normalizePath(window.location.pathname);
     window.dataLayer = window.dataLayer || [];
 
     if (!document.querySelector('.skip-link')) {
@@ -44,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Close mobile menu when clicking a link
     const navLinks = document.querySelectorAll('nav a');
     navLinks.forEach(link => {
-        const linkPath = new URL(link.href, window.location.origin).pathname.replace(/\/$/, '') || '/';
+        const linkPath = normalizePath(new URL(link.href, window.location.origin).pathname);
         if (linkPath === currentPath || (linkPath !== '/' && currentPath.startsWith(linkPath + '/'))) {
             link.setAttribute('aria-current', 'page');
         }
@@ -141,12 +145,15 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const commonCtaSelectors = [
+        'a[href="/aaos/"]',
         'a[href="/contact"]',
+        'a[href="/book-darren/"]',
         'a[href="/media-kit/"]',
         'a[href="/keynotes/"]',
         'a[href="/workshops/"]',
         'a[href="/books/"]',
-        'a[href="/testimonials/"]'
+        'a[href="/testimonials/"]',
+        'a[href="/podcasts/"]'
     ];
     document.querySelectorAll(commonCtaSelectors.join(',')).forEach(element => {
         if (element.dataset.trackAttached === 'true') {

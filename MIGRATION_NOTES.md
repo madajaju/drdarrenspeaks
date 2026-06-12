@@ -4,10 +4,9 @@
 The website has been rebuilt as a lightweight, static HTML/CSS site to improve performance, accessibility, and SEO. The architecture has been moved from a heavy framework/bloated HTML to a clean, semantic structure.
 
 ## Changes
-- **New Page Structure:** 14 core pages created with unique SEO targets and professional executive copy.
-- **Legacy Content Migration:** Integrated 8 patents, 3 legacy books, and Medium article links into a new `works.html` page.
-- **Community Engagement:** Added a new `community.html` page for newsletter sign-up, matching original site fields.
-- **Testimonials:** Integrated high-authority testimonials (e.g., U.S. Census Bureau) directly into the homepage.
+- **New Page Structure:** Canonical AAOS pages created for the home page, AAOS hub, keynote hub, workshop hub, media kit, books, resources, testimonials, about, and booking flow.
+- **Legacy Content Migration:** Retired the old flat pages and old topic routes in favor of the AAOS directory structure.
+- **Testimonials:** Integrated high-authority testimonials and proof into the homepage and testimonial page.
 - **Shared CSS:** A new `assets/css/styles.css` provides a consistent, mobile-first design.
 - **Minimal JS:** `assets/js/main.js` handles mobile navigation only.
 - **SEO Optimization:** 
@@ -24,8 +23,7 @@ The website has been rebuilt as a lightweight, static HTML/CSS site to improve p
 
 ## Manual Follow-up Needed
 1. **Images:** Upload high-resolution headshots and book covers to `assets/img/`. Update the `src` attributes in the HTML files if the filenames differ from the placeholders used.
-2. **Form Integration:** The contact form in `contact.html` and the newsletter form in `community.html` are placeholders. You will need to connect them to a service like [Formspree](https://formspree.io/), [Netlify Forms](https://www.netlify.com/products/forms/), or your preferred email marketing tool (e.g., Zoho Campaigns, Mailchimp).
+2. **Form Integration:** The booking form in `book-darren/index.html` is a mailto-based inquiry flow. Connect it to a form service if you want server-side submission handling.
 3. **Links:** 
-    - Check and update Amazon links in `book.html`.
-    - Check and update any specific social media or podcast links in the schema and footer.
+    - Check and update any external social media or podcast links in the schema and footer.
 4. **Content Review:** Review the generated copy to ensure it perfectly aligns with Dr. Pulsipher's voice and current focus.

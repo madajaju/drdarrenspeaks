@@ -16,7 +16,7 @@ This punchlist is intended for Codex/Junie implementation. The goal is to turn *
 | Baseline technical setup | Partial | Static site structure, `robots.txt`, `sitemap.xml`, canonical URLs, and clean redirects are in place; no formal build/lint workflow or analytics provider found. |
 | Homepage conversion rewrite | Done | Hero, proof bar, "Why Darren" section, and primary CTAs are implemented. |
 | Core speaker architecture | Done | `/keynotes/` hub and all six keynote detail pages exist. |
-| Workshops | Done | `/workshops/` and `/workshops/ai-executive-workshop/` exist. |
+| Workshops | Done | `/workshops/` and `/workshops/executive-aaos-workshop/` exist. |
 | Media kit | Done | `/media-kit/` exists with bios, intro copy, image, and contact CTA. |
 | Canonical bio / entity SEO | Done | `/about/dr-darren-pulsipher/` exists and is linked sitewide. |
 | `llms.txt` | Done | File exists at site root and lists canonical pages. |
@@ -115,7 +115,7 @@ Download Media Kit
 - [x] Update homepage H1 to `AI-Augmented Leadership Speaker`.
 - [x] Add strong subheadline focused on outcomes.
 - [x] Add credibility line immediately below the subheadline.
-- [x] Add primary CTA: `Book Darren` linking to `/contact` or `/book-darren`.
+- [x] Add primary CTA: `Book Darren` linking to `/book-darren//` or `/book-darren/`.
 - [x] Add secondary CTA: `View Keynotes` linking to `/keynotes`.
 - [x] Add tertiary link: `Download Media Kit` linking to `/media-kit`.
 - [x] Ensure hero image is optimized and has alt text.
@@ -240,7 +240,7 @@ Create cards for:
 
 Create the following pages.
 
-### 5.1 `/keynotes/ai-augmented-leadership/`
+### 5.1 `/keynotes/aaos-ai-augmented-leadership/`
 
 #### H1
 
@@ -267,7 +267,7 @@ Book This Keynote
 
 ---
 
-### 5.2 `/keynotes/becoming-ai-augmented-organization/`
+### 5.2 `/keynotes/aaos-ai-augmented-leadership/`
 
 #### H1
 
@@ -309,7 +309,7 @@ CIOs, CTOs, enterprise architects, AI program leaders, operations leaders.
 
 ---
 
-### 5.4 `/keynotes/public-sector-ai-digital-transformation/`
+### 5.4 `/keynotes/public-sector-ai/`
 
 #### H1
 
@@ -330,7 +330,7 @@ Government, defense, education, public agencies, civic technology groups.
 
 ---
 
-### 5.5 `/keynotes/future-of-work-ai/`
+### 5.5 `/keynotes/future-of-work/`
 
 #### H1
 
@@ -351,7 +351,7 @@ HR leaders, executives, universities, workforce boards, professional association
 
 ---
 
-### 5.6 `/keynotes/generative-ai-strategy-executives/`
+### 5.6 `/keynotes/ai-governance/`
 
 #### H1
 
@@ -418,7 +418,7 @@ Position Darren as a speaker who can also lead practical executive and team work
 
 ---
 
-## 7. Create `/workshops/ai-executive-workshop/`
+## 7. Create `/workshops/executive-aaos-workshop/`
 
 ### H1
 
@@ -583,17 +583,16 @@ Primary topics:
 Important pages:
 - /about/dr-darren-pulsipher/
 - /keynotes/
-- /keynotes/ai-augmented-leadership/
-- /keynotes/becoming-ai-augmented-organization/
+- /keynotes/aaos-ai-augmented-leadership/
 - /keynotes/reliable-ai-execution/
-- /keynotes/public-sector-ai-digital-transformation/
-- /keynotes/future-of-work-ai/
-- /keynotes/generative-ai-strategy-executives/
+- /keynotes/public-sector-ai/
+- /keynotes/future-of-work/
+- /keynotes/ai-governance/
 - /workshops/
 - /media-kit/
 - /books/
 - /podcasts/
-- /contact/
+- /book-darren//
 
 Related properties:
 - https://paidar.ai/
@@ -810,14 +809,14 @@ Build organic search visibility and AI citation surface area.
 
 Create these pages:
 
-1. `/resources/what-is-an-ai-augmented-organization/`
-2. `/resources/ai-augmented-leadership/`
-3. `/resources/ai-governance-for-executives/`
-4. `/resources/generative-ai-strategy/`
-5. `/resources/ai-readiness-assessment/`
+1. `/resources/ai-augmented-organizations/`
+2. `/resources/ai-augmented-organizations/`
+3. `/resources/ai-governance/`
+4. `/resources/ai-governance/`
+5. `/resources/ai-operating-model/`
 6. `/resources/reliable-ai-execution/`
-7. `/resources/public-sector-ai-adoption/`
-8. `/resources/future-of-work-ai/`
+7. `/resources/public-sector-ai/`
+8. `/resources/ai-workforce-transformation/`
 
 ### Article Template
 
@@ -892,7 +891,7 @@ Contact
 - `/books/`
 - `/podcasts/`
 - `/resources/`
-- `/contact/`
+- `/book-darren//`
 - `https://paidar.ai/`
 - `https://embracingdigital.org/`
 
@@ -905,7 +904,7 @@ Contact
 
 # Phase 11 — Contact and Booking Flow
 
-## 20. Improve `/contact/` or Create `/book-darren/`
+## 20. Improve `/book-darren//` or Create `/book-darren//`
 
 ### Recommended Form Fields
 
@@ -970,7 +969,7 @@ Primary Keyword | Dr. Darren Pulsipher
 
 Every major page should link to:
 
-- One booking/contact page.
+- One booking/book-darren// page.
 - One authority page.
 - One related keynote/workshop.
 - One related resource.
@@ -1081,7 +1080,7 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 - [x] `/keynotes/`
 - [x] Six keynote detail pages.
 - [x] `/workshops/`
-- [x] `/workshops/ai-executive-workshop/`
+- [x] `/workshops/executive-aaos-workshop/`
 
 ## Sprint 3 — Authority and AI Visibility
 
