@@ -592,6 +592,47 @@ section {
     margin-bottom: 1rem;
 }
 
+/* Book Covers */
+.book-card-cover {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 14px;
+    background: #f6f7fb;
+    padding: 0.75rem;
+    border: 1px solid var(--border-color);
+    margin-bottom: 1.25rem;
+}
+
+.book-cover-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.book-cover-tile {
+    text-align: center;
+}
+
+.book-cover-tile img {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 12px;
+    background: #f6f7fb;
+    padding: 0.5rem;
+    border: 1px solid var(--border-color);
+}
+
+.book-cover-tile p {
+    margin-top: 0.65rem;
+    margin-bottom: 0;
+    font-size: 0.95rem;
+}
+
 /* Footer */
 footer {
     background-color: var(--primary-color);
