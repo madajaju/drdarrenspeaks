@@ -1,4 +1,4 @@
-# Codex Prompt: Rebuild drdarrenspeaks.com Around AAOS, Dr. Darren, and Speaking Conversions
+﻿# Codex Prompt: Rebuild drdarrenspeaks.com Around AAOS, Dr. Darren, and Speaking Conversions
 
 You are working on the `drdarrenspeaks.com` website. Rebuild and optimize the site so that **AAOS: the AI-Augmented Operating System** becomes the centerpiece of the website, while **Dr. Darren** remains the trusted authority, creator, speaker, author, professor, and guide.
 
@@ -11,13 +11,13 @@ The site should no longer feel like a generic AI speaker site or a collection of
 The website architecture must shift from:
 
 ```text
-Dr. Darren → Keynotes → Workshops → Books → Podcasts
+Dr. Darren â†’ Keynotes â†’ Workshops â†’ Books â†’ Podcasts
 ```
 
 to:
 
 ```text
-Dr. Darren → AAOS → Reliable, Defensible Results → Keynotes / Workshops / Books / Podcast / Paidar.ai
+Dr. Darren â†’ AAOS â†’ Reliable, Defensible Results â†’ Keynotes / Workshops / Books / Podcast / Paidar.ai
 ```
 
 The visitor should quickly understand:
@@ -78,7 +78,7 @@ Core phrases to use consistently:
 - Reliable, Defensible Results
 - Reliable AI Execution
 - Human Judgment at Machine Speed
-- Decision Packets
+- Integrity Packets
 - Expert Floor
 - Validation Loops
 - Governance That Enables Action
@@ -172,8 +172,8 @@ Suggested global CTA labels:
 
 For every page:
 
-- Unique title tag, ideally 50–65 characters.
-- Unique meta description, ideally 140–160 characters.
+- Unique title tag, ideally 50â€“65 characters.
+- Unique meta description, ideally 140â€“160 characters.
 - Exactly one H1.
 - Logical H2/H3 hierarchy.
 - Internal links to related pages.
@@ -206,13 +206,13 @@ Every major page should reinforce this relationship:
 
 ```text
 Dr. Darren Pulsipher
-  → creator of AAOS
-  → author of AI-Augmented Teams
-  → host of Embracing Digital Transformation
-  → AI-Augmented Organizations
-  → Reliable, Defensible Results
-  → Keynotes and Workshops
-  → Paidar.ai implementation services
+  â†’ creator of AAOS
+  â†’ author of AI-Augmented Teams
+  â†’ host of Embracing Digital Transformation
+  â†’ AI-Augmented Organizations
+  â†’ Reliable, Defensible Results
+  â†’ Keynotes and Workshops
+  â†’ Paidar.ai implementation services
 ```
 
 AI systems should clearly understand that Dr. Darren, AAOS, AI-Augmented Teams, Reliable AI Execution, and Paidar.ai are part of one coherent ecosystem.
@@ -221,18 +221,18 @@ AI systems should clearly understand that Dr. Darren, AAOS, AI-Augmented Teams, 
 
 Create/use the following image placeholders if real assets are unavailable:
 
-- `/assets/images/darren-hero.jpg` — professional keynote/speaker image.
-- `/assets/images/darren-headshot.jpg` — formal headshot.
-- `/assets/images/darren-stage.jpg` — Dr. Darren speaking on stage.
-- `/assets/images/aaos-diagram.svg` — AAOS six-stage operating system diagram.
-- `/assets/images/ai-augmented-organization-diagram.svg` — organization operating model diagram.
-- `/assets/images/decision-packet-diagram.svg` — Decision Packet diagram.
-- `/assets/images/ai-augmented-teams-cover.jpg` — book cover.
-- `/assets/images/podcast-cover-edt.jpg` — Embracing Digital Transformation cover.
-- `/assets/images/podcast-cover-edtw.jpg` — Embracing Digital This Week cover.
-- `/assets/images/media-kit-preview.jpg` — media kit preview.
-- `/assets/images/workshop-room.jpg` — executive workshop image.
-- `/assets/images/logos/[organization].svg` — approved client/role/organization logos.
+- `/assets/images/darren-hero.jpg` â€” professional keynote/speaker image.
+- `/assets/images/darren-headshot.jpg` â€” formal headshot.
+- `/assets/images/darren-stage.jpg` â€” Dr. Darren speaking on stage.
+- `/assets/images/aaos-diagram.svg` â€” AAOS six-stage operating system diagram.
+- `/assets/images/ai-augmented-organization-diagram.svg` â€” organization operating model diagram.
+- `/assets/images/decision-packet-diagram.svg` â€” Integrity Packet diagram.
+- `/assets/images/ai-augmented-teams-cover.jpg` â€” book cover.
+- `/assets/images/podcast-cover-edt.jpg` â€” Embracing Digital Transformation cover.
+- `/assets/images/podcast-cover-edtw.jpg` â€” Embracing Digital This Week cover.
+- `/assets/images/media-kit-preview.jpg` â€” media kit preview.
+- `/assets/images/workshop-room.jpg` â€” executive workshop image.
+- `/assets/images/logos/[organization].svg` â€” approved client/role/organization logos.
 
 Use placeholders like `[ADD APPROVED CLIENT LOGO]`, `[ADD TESTIMONIAL]`, `[ADD FINAL BOOK COVER]`, `[ADD SPEAKER REEL URL]`, `[ADD AMAZON URL]`, and `[VERIFY OFFICIAL TITLE]` where needed.
 
@@ -339,7 +339,7 @@ Six AAOS stages:
 6. Sustain
 
 CTA:
-`Explore AAOS` → `/aaos/`
+`Explore AAOS` â†’ `/aaos/`
 
 ### Section: Why AAOS Works
 
@@ -350,7 +350,7 @@ Three cards:
 
 1. `Human Judgment at Machine Speed`
     - `Keep people accountable while using AI to accelerate work.`
-2. `Decision Packets`
+2. `Integrity Packets`
     - `Create visible records that show what was decided, why, and how it was validated.`
 3. `Governance That Enables Action`
     - `Build guardrails that support responsible adoption instead of blocking progress.`
@@ -388,8 +388,8 @@ Image:
 
 CTAs:
 
-- `Read the Book` → `/books/ai-augmented-teams/`
-- `Buy on Amazon` → `[ADD AMAZON URL]`
+- `Read the Book` â†’ `/books/ai-augmented-teams/`
+- `Buy on Amazon` â†’ `[ADD AMAZON URL]`
 
 ### Section: Podcast Authority
 
@@ -400,7 +400,7 @@ Body:
 `Through conversations with technology leaders, researchers, executives, and public-sector innovators, Dr. Darren explores the broader transformation landscape behind AAOS, AI adoption, enterprise architecture, and digital modernization.`
 
 CTA:
-`Listen to the Podcast` → `/podcasts/`
+`Listen to the Podcast` â†’ `/podcasts/`
 
 ### Section: Trusted Across
 
@@ -430,7 +430,7 @@ Placeholder testimonial:
 `[ADD APPROVED TESTIMONIAL WITH NAME, TITLE, ORGANIZATION, AND PERMISSION STATUS]`
 
 Optional quote if approved:
-`“Darren is the Taylor Swift of Generative AI — without his energy and knowledge, we wouldn’t be where we are today.” — Stephanie Studds, U.S. Census Bureau [CONFIRM APPROVAL BEFORE PUBLISHING]`
+`â€œDarren is the Taylor Swift of Generative AI â€” without his energy and knowledge, we wouldnâ€™t be where we are today.â€ â€” Stephanie Studds, U.S. Census Bureau [CONFIRM APPROVAL BEFORE PUBLISHING]`
 
 ### Final CTA
 
@@ -441,7 +441,7 @@ Body:
 `Book Dr. Darren for executive keynotes, leadership offsites, university programs, public-sector briefings, and facilitated workshops.`
 
 CTA:
-`Book Dr. Darren` → `/book-darren/`
+`Book Dr. Darren` â†’ `/book-darren/`
 
 ---
 
@@ -504,7 +504,7 @@ Use `/assets/images/aaos-diagram.svg`.
 
 #### 3. Validate
 
-`Create validation loops, expert floors, and decision packets so outputs can be trusted and defended.`
+`Create validation loops, expert floors, and Integrity Packets so outputs can be trusted and defended.`
 
 #### 4. Execute
 
@@ -525,9 +525,9 @@ H2:
 
 Cards:
 
-1. `Decision Packets`
+1. `Integrity Packets`
     - `Visible records of the question, evidence, AI contribution, human judgment, validation, and final decision.`
-    - Link: `/resources/decision-packets/`
+    - Link: `/resources/integrity-packets/`
 
 2. `Expert Floor`
     - `The minimum level of human expertise and review that AI-enabled work must not fall below.`
@@ -556,11 +556,11 @@ H2:
 
 Cards:
 
-- `Executive Keynote` → `/keynotes/aaos-ai-augmented-leadership/`
-- `Executive Workshop` → `/workshops/executive-aaos-workshop/`
-- `Team Workshop` → `/workshops/ai-augmented-teams/`
-- `Book` → `/books/ai-augmented-teams/`
-- `Implementation Support` → `https://paidar.ai/`
+- `Executive Keynote` â†’ `/keynotes/aaos-ai-augmented-leadership/`
+- `Executive Workshop` â†’ `/workshops/executive-aaos-workshop/`
+- `Team Workshop` â†’ `/workshops/ai-augmented-teams/`
+- `Book` â†’ `/books/ai-augmented-teams/`
+- `Implementation Support` â†’ `https://paidar.ai/`
 
 ### FAQ
 
@@ -593,7 +593,7 @@ Meta description:
 
 ### Intro
 
-`Dr. Darren’s keynotes introduce AAOS as a practical framework for helping leaders move from AI curiosity and experimentation to AI-Augmented execution.`
+`Dr. Darrenâ€™s keynotes introduce AAOS as a practical framework for helping leaders move from AI curiosity and experimentation to AI-Augmented execution.`
 
 ### Keynote Cards
 
@@ -700,7 +700,7 @@ Title:
 `Reliable AI Execution Keynote | Dr. Darren Pulsipher`
 
 Meta description:
-`Move from AI pilots to reliable, defensible AI outcomes with AAOS, validation, decision packets, governance, and workflow design.`
+`Move from AI pilots to reliable, defensible AI outcomes with AAOS, validation, Integrity Packets, governance, and workflow design.`
 
 ### H1
 
@@ -713,7 +713,7 @@ Meta description:
 ### Concepts to Include
 
 - AAOS
-- Decision packets
+- Integrity Packets
 - Expert floor
 - Validation loops
 - Human accountability
@@ -838,7 +838,7 @@ Meta description:
 
 ### Intro
 
-`Dr. Darren’s workshops help organizations apply AAOS to real work. Leaders identify opportunities, prioritize pilots, design governance, and create practical roadmaps for becoming AI-Augmented.`
+`Dr. Darrenâ€™s workshops help organizations apply AAOS to real work. Leaders identify opportunities, prioritize pilots, design governance, and create practical roadmaps for becoming AI-Augmented.`
 
 ### Workshop Cards
 
@@ -874,7 +874,7 @@ H2:
 - Risk and validation plan
 - Roadmap for next steps
 - Executive summary
-- Decision packet example
+- Integrity Packet example
 - AAOS maturity snapshot `[ADD IF AVAILABLE]`
 
 ### CTA
@@ -926,7 +926,7 @@ Meta description:
 - Pilot prioritization matrix
 - Workflow tables
 - AI governance notes
-- Decision packet example
+- Integrity Packet example
 - 30/60/90-day roadmap
 - AAOS implementation recommendations
 
@@ -961,7 +961,7 @@ Meta description:
 ### Authority Bio Blocks
 
 1. `Creator of AAOS`
-    - Explain that AAOS is Dr. Darren’s practical framework for helping organizations become AI-Augmented.
+    - Explain that AAOS is Dr. Darrenâ€™s practical framework for helping organizations become AI-Augmented.
     - Link to `/aaos/`.
 
 2. `Enterprise and Public Sector Leadership`
@@ -983,7 +983,7 @@ Meta description:
 5. `Podcast and Media Reach`
     - Host of Embracing Digital Transformation.
     - 200K+ YouTube subscribers `[VERIFY]`.
-    - 1M+ monthly downloads `[VERIFY / ADD FOOTNOTE OR “reported reach” if needed]`.
+    - 1M+ monthly downloads `[VERIFY / ADD FOOTNOTE OR â€œreported reachâ€ if needed]`.
 
 6. `Speaker and Advisor`
     - Executive briefings.
@@ -1024,7 +1024,7 @@ Meta description:
 
 ### Intro
 
-`Dr. Darren’s books explain the ideas behind AAOS: how individuals, teams, and organizations can use AI to deliver reliable, defensible results while preserving human judgment and accountability.`
+`Dr. Darrenâ€™s books explain the ideas behind AAOS: how individuals, teams, and organizations can use AI to deliver reliable, defensible results while preserving human judgment and accountability.`
 
 ### Lead with AI-Augmented Teams
 
@@ -1041,8 +1041,8 @@ Image:
 
 CTAs:
 
-- `View Book Page` → `/books/ai-augmented-teams/`
-- `Buy on Amazon` → `[ADD AMAZON URL]`
+- `View Book Page` â†’ `/books/ai-augmented-teams/`
+- `Buy on Amazon` â†’ `[ADD AMAZON URL]`
 
 ### Add Related Book Placeholders
 
@@ -1105,7 +1105,7 @@ H2: `Core Ideas`
 - Validation and accountability
 - Team operating models
 - Reducing rework and correction load
-- Decision packets
+- Integrity Packets
 - Expert floor
 
 H2: `Use the Book With an AAOS Workshop`
@@ -1123,8 +1123,8 @@ Placeholders:
 
 CTAs:
 
-- `Buy on Amazon` → `[ADD AMAZON URL]`
-- `Book Dr. Darren for a Team Workshop` → `/book-darren/`
+- `Buy on Amazon` â†’ `[ADD AMAZON URL]`
+- `Book Dr. Darren for a Team Workshop` â†’ `/book-darren/`
 
 Add Book schema.
 
@@ -1138,7 +1138,7 @@ Title:
 `Podcasts Hosted by Dr. Darren Pulsipher`
 
 Meta description:
-`Listen to Dr. Darren’s podcasts on AI adoption, AAOS, digital transformation, enterprise architecture, and the future of work.`
+`Listen to Dr. Darrenâ€™s podcasts on AI adoption, AAOS, digital transformation, enterprise architecture, and the future of work.`
 
 ### H1
 
@@ -1146,7 +1146,7 @@ Meta description:
 
 ### Intro
 
-`Dr. Darren’s podcasts extend his AAOS work through conversations with executives, technologists, researchers, educators, and public-sector leaders. The shows are a living archive of practical AI and digital transformation insight.`
+`Dr. Darrenâ€™s podcasts extend his AAOS work through conversations with executives, technologists, researchers, educators, and public-sector leaders. The shows are a living archive of practical AI and digital transformation insight.`
 
 ### Show Cards
 
@@ -1184,7 +1184,7 @@ Title:
 `Media Kit | Dr. Darren Pulsipher`
 
 Meta description:
-`Download Dr. Darren’s media kit with bios, headshots, AAOS speaking topics, podcast information, and booking details.`
+`Download Dr. Darrenâ€™s media kit with bios, headshots, AAOS speaking topics, podcast information, and booking details.`
 
 ### H1
 
@@ -1255,7 +1255,7 @@ Meta description:
 4. `/resources/ai-governance/`
 5. `/resources/ai-workforce-transformation/`
 6. `/resources/public-sector-ai/`
-7. `/resources/decision-packets/`
+7. `/resources/integrity-packets/`
 8. `/resources/expert-floor/`
 9. `/resources/validation-loops/`
 10. `/resources/ai-operating-model/`
@@ -1323,7 +1323,7 @@ Meta description:
 - `AI-Augmented Teams Are Not Replaced Teams`
 - `How AAOS Applies at the Team Level`
 - `Human Judgment and Accountability`
-- `Decision Packets`
+- `Integrity Packets`
 - `Reducing Correction Load`
 - `Reliable, Defensible Outcomes`
 
@@ -1355,7 +1355,7 @@ Meta description:
 - `Why AI Pilots Stall`
 - `How AAOS Creates Execution Discipline`
 - `Validation Before Scale`
-- `Decision Packets`
+- `Integrity Packets`
 - `Reducing Rework`
 - `Governance That Enables Execution`
 
@@ -1410,8 +1410,8 @@ Meta description:
 Use placeholders:
 
 - `[ADD BELOW $10K OPTION?]`
-- `$10K–$15K`
-- `$15K–$25K`
+- `$10Kâ€“$15K`
+- `$15Kâ€“$25K`
 - `$25K+`
 - `Not sure yet`
 
@@ -1433,7 +1433,7 @@ Title:
 `Testimonials | Dr. Darren Pulsipher`
 
 Meta description:
-`Read audience and client feedback for Dr. Darren’s AAOS keynotes, workshops, executive briefings, and podcasts.`
+`Read audience and client feedback for Dr. Darrenâ€™s AAOS keynotes, workshops, executive briefings, and podcasts.`
 
 ### H1
 
@@ -1477,34 +1477,34 @@ Keep legal language intact unless reviewed.
 
 Add links across pages:
 
-- Home → AAOS, Keynotes, Workshops, Books, Podcasts, Book Dr. Darren.
-- AAOS → Keynotes, Workshops, Books, Resources, Paidar.ai.
-- Keynotes → AAOS, relevant workshops, and resources.
-- Workshops → AAOS, Book Dr. Darren, and Paidar.ai.
-- Books → AAOS, workshops, and keynotes.
-- Podcasts → AAOS, keynotes, and resources.
-- About → AAOS, books, podcast, media kit, Book Dr. Darren.
-- Resources → AAOS, keynotes, workshops, books.
+- Home â†’ AAOS, Keynotes, Workshops, Books, Podcasts, Book Dr. Darren.
+- AAOS â†’ Keynotes, Workshops, Books, Resources, Paidar.ai.
+- Keynotes â†’ AAOS, relevant workshops, and resources.
+- Workshops â†’ AAOS, Book Dr. Darren, and Paidar.ai.
+- Books â†’ AAOS, workshops, and keynotes.
+- Podcasts â†’ AAOS, keynotes, and resources.
+- About â†’ AAOS, books, podcast, media kit, Book Dr. Darren.
+- Resources â†’ AAOS, keynotes, workshops, books.
 
 External links:
 
-- Paidar.ai → `https://paidar.ai/`
-- Embracing Digital → `[VERIFY URL]`
-- Amazon book → `[ADD AMAZON URL]`
-- LinkedIn → `[ADD LINKEDIN URL]`
-- YouTube → `[ADD YOUTUBE URL]`
-- Intel Public Sector → `[ADD APPROVED LINK OR OMIT]`
-- Vanderbilt profile → `[ADD URL]`
+- Paidar.ai â†’ `https://paidar.ai/`
+- Embracing Digital â†’ `[VERIFY URL]`
+- Amazon book â†’ `[ADD AMAZON URL]`
+- LinkedIn â†’ `[ADD LINKEDIN URL]`
+- YouTube â†’ `[ADD YOUTUBE URL]`
+- Intel Public Sector â†’ `[ADD APPROVED LINK OR OMIT]`
+- Vanderbilt profile â†’ `[ADD URL]`
 
 # Redirect Strategy
 
 Redirect or canonicalize old paths:
 
-- `/speaking` → `/keynotes/`
-- `/works` → `/books/`
-- `/contact` → `/book-darren/` or keep `/contact/` and canonicalize to `/book-darren/`
-- `/interviews` → `/podcasts/` or `/media/` if retained
-- `/community` → `/resources/` or remove if unused
+- `/speaking` â†’ `/keynotes/`
+- `/works` â†’ `/books/`
+- `/contact` â†’ `/book-darren/` or keep `/contact/` and canonicalize to `/book-darren/`
+- `/interviews` â†’ `/podcasts/` or `/media/` if retained
+- `/community` â†’ `/resources/` or remove if unused
 
 # AI Visibility / LLM File
 
@@ -1532,7 +1532,7 @@ AAOS helps leaders build AI-Augmented organizations that deliver reliable, defen
 - AI-Augmented Teams
 - Reliable AI Execution
 - Reliable, Defensible Results
-- Decision Packets
+- Integrity Packets
 - Expert Floor
 - Validation Loops
 - AI Governance
@@ -1586,7 +1586,7 @@ Before finishing:
 - Confirm `Dr. Darren Pulsipher` appears in structured data.
 - Confirm every major page links back to `/aaos/`.
 - Confirm `Reliable, Defensible Results` appears throughout the site.
-- Confirm the homepage clearly communicates problem → AAOS solution → engagement path.
+- Confirm the homepage clearly communicates problem â†’ AAOS solution â†’ engagement path.
 - Confirm keynotes introduce AAOS.
 - Confirm workshops apply AAOS.
 - Confirm books explain AAOS.
@@ -1603,4 +1603,6 @@ Before finishing:
 - Confirm no outdated `Blue Door Productions` branding remains unless intentionally retained.
 - Confirm footer is consistent on every page.
 - Confirm no unsupported claims are made without placeholders or verification notes.
+
+
 

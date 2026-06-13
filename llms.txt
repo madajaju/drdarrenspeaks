@@ -1,4 +1,4 @@
-# Dr. Darren Speaks
+﻿# Dr. Darren Speaks
 
 ## Primary Entity
 Dr. Darren Pulsipher is the creator of AAOS, the AI-Augmented Operating System, and an AI leadership speaker, author, professor, podcast host, and enterprise technology leader focused on AI-Augmented organizations, reliable AI execution, public-sector modernization, and digital transformation.
@@ -19,7 +19,7 @@ AAOS helps leaders build AI-Augmented organizations that deliver reliable, defen
 - AI-Augmented Teams
 - Reliable AI Execution
 - Reliable, Defensible Results
-- Decision Packets
+- Integrity Packets
 - Expert Floor
 - Validation Loops
 - AI Governance
@@ -49,7 +49,7 @@ AAOS helps leaders build AI-Augmented organizations that deliver reliable, defen
 - https://drdarrenspeaks.com/resources/ai-augmented-organizations/
 - https://drdarrenspeaks.com/resources/ai-augmented-teams/
 - https://drdarrenspeaks.com/resources/reliable-ai-execution/
-- https://drdarrenspeaks.com/resources/decision-packets/
+- https://drdarrenspeaks.com/resources/integrity-packets/
 - https://drdarrenspeaks.com/resources/expert-floor/
 - https://drdarrenspeaks.com/resources/validation-loops/
 - https://drdarrenspeaks.com/resources/ai-governance/
@@ -65,3 +65,5 @@ AAOS helps leaders build AI-Augmented organizations that deliver reliable, defen
 
 ## Contact
 paige@drdarrenspeaks.com
+
+

@@ -1,4 +1,4 @@
-# drdarrenspeaks.com SEO + AI Visibility Punchlist
+﻿# drdarrenspeaks.com SEO + AI Visibility Punchlist
 
 This punchlist is intended for Codex/Junie implementation. The goal is to turn **drdarrenspeaks.com** from a general speaker brochure into a high-converting speaker, media, and authority hub for Dr. Darren Pulsipher.
 
@@ -49,7 +49,7 @@ Preferred expanded headline:
 
 > Helping executives, government leaders, and universities deliver reliable, defensible results in the age of AI.
 
-## Priority 0 — Baseline Technical Setup
+## Priority 0 â€” Baseline Technical Setup
 
 ### Tasks
 
@@ -76,13 +76,13 @@ Preferred expanded headline:
 
 ---
 
-# Phase 1 — Homepage Conversion Rewrite
+# Phase 1 â€” Homepage Conversion Rewrite
 
 ## 1. Replace Homepage Hero
 
 ### Current Problem
 
-The homepage headline is too generic. “Speaker, Innovator, Motivator” does not differentiate Darren from other speakers.
+The homepage headline is too generic. â€œSpeaker, Innovator, Motivatorâ€ does not differentiate Darren from other speakers.
 
 ### Replace Hero Copy With
 
@@ -92,7 +92,7 @@ AI-Augmented Leadership Speaker
 Helping executives, government leaders, and universities deliver reliable, defensible results in the age of AI.
 
 Dr. Darren Pulsipher
-Chief Enterprise Architect · Vanderbilt Professor · Author · Podcast Host
+Chief Enterprise Architect Â· Vanderbilt Professor Â· Author Â· Podcast Host
 ```
 
 ### CTA Buttons
@@ -122,7 +122,7 @@ Download Media Kit
 
 ### Acceptance Criteria
 
-- H1 clearly contains “AI” and “speaker.”
+- H1 clearly contains â€œAIâ€ and â€œspeaker.â€
 - Visitor can understand who Darren is and why he matters in under 10 seconds.
 - Booking CTA appears above the fold on desktop and mobile.
 
@@ -158,7 +158,7 @@ Global Speaker
 
 ---
 
-## 3. Add “Why Darren” Section
+## 3. Add â€œWhy Darrenâ€ Section
 
 ### Suggested Copy
 
@@ -184,13 +184,13 @@ Audiences leave with a clear understanding of how to use AI to improve decisions
 
 ---
 
-# Phase 2 — Create Core Speaker Architecture
+# Phase 2 â€” Create Core Speaker Architecture
 
 ## 4. Create `/keynotes/` Landing Page
 
 ### Page Purpose
 
-Show Darren’s main keynote topics and route buyers to the right offering.
+Show Darrenâ€™s main keynote topics and route buyers to the right offering.
 
 ### URL
 
@@ -304,7 +304,7 @@ CIOs, CTOs, enterprise architects, AI program leaders, operations leaders.
 
 - Move from AI pilots to production outcomes.
 - Reduce hallucination, rework, and decision risk.
-- Understand the role of validation and decision packets.
+- Understand the role of validation and Integrity Packets.
 - Build trust in AI-supported workflows.
 
 ---
@@ -377,7 +377,7 @@ Each keynote page must include:
 - [x] H1 with target keyword.
 - [x] Short executive summary.
 - [x] Best-fit audience.
-- [x] 4–6 audience takeaways.
+- [x] 4â€“6 audience takeaways.
 - [x] Suggested duration options: 30, 45, 60, 90 minutes.
 - [x] Optional workshop extension.
 - [x] CTA button.
@@ -387,7 +387,7 @@ Each keynote page must include:
 
 ---
 
-# Phase 3 — Workshops and Consulting Adjacent Offers
+# Phase 3 â€” Workshops and Consulting Adjacent Offers
 
 ## 6. Create `/workshops/` Landing Page
 
@@ -444,7 +444,7 @@ AI Executive Workshop
 
 ---
 
-# Phase 4 — Media Kit
+# Phase 4 â€” Media Kit
 
 ## 8. Create `/media-kit/`
 
@@ -493,7 +493,7 @@ Please welcome Dr. Darren Pulsipher, an AI keynote speaker, author, professor, p
 
 ---
 
-# Phase 5 — Entity SEO and AI Visibility
+# Phase 5 â€” Entity SEO and AI Visibility
 
 ## 9. Create Canonical Darren Entity Page
 
@@ -665,13 +665,13 @@ For podcast page:
 
 ---
 
-# Phase 6 — Books as Authority Assets
+# Phase 6 â€” Books as Authority Assets
 
 ## 12. Create `/books/`
 
 ### Purpose
 
-Use Darren’s books as credibility and conversion assets.
+Use Darrenâ€™s books as credibility and conversion assets.
 
 ### Books to Include
 
@@ -712,19 +712,19 @@ AI-Augmented Teams
 
 ### Acceptance Criteria
 
-- Book page strengthens Darren’s authority as an AI speaker.
+- Book page strengthens Darrenâ€™s authority as an AI speaker.
 - Page links naturally to keynote and workshop offers.
 
 ---
 
-# Phase 7 — Podcast Authority Cleanup
+# Phase 7 â€” Podcast Authority Cleanup
 
 ## 14. Rewrite `/podcasts/`
 
 ### Current Problems
 
 - Repeated sentence on Embracing Digital Transformation.
-- Outdated title: “Chief Solution Architect.”
+- Outdated title: â€œChief Solution Architect.â€
 - Podcast content does not fully support speaker authority.
 
 ### Tasks
@@ -750,7 +750,7 @@ Dr. Darren Pulsipher hosts conversations with executives, technologists, researc
 
 ---
 
-# Phase 8 — Testimonials, Proof, and Trust
+# Phase 8 â€” Testimonials, Proof, and Trust
 
 ## 15. Create `/testimonials/`
 
@@ -766,7 +766,7 @@ Dr. Darren Pulsipher hosts conversations with executives, technologists, researc
 
 - [x] Add testimonial cards.
 - [x] Include person name, role, organization, and quote where approved.
-- [x] Add CTA after every 3–5 testimonials.
+- [x] Add CTA after every 3â€“5 testimonials.
 - [~] Add schema if appropriate.
 
 ### Acceptance Criteria
@@ -797,7 +797,7 @@ Darren has spoken, taught, advised, or collaborated across enterprise, higher ed
 
 ---
 
-# Phase 9 — Resource Hub for SEO
+# Phase 9 â€” Resource Hub for SEO
 
 ## 17. Create `/resources/`
 
@@ -840,7 +840,7 @@ Each resource page should include:
 
 ---
 
-# Phase 10 — Navigation and Funnel Improvements
+# Phase 10 â€” Navigation and Funnel Improvements
 
 ## 18. Update Main Navigation
 
@@ -861,7 +861,7 @@ Contact
 ### Tasks
 
 - [x] Simplify existing navigation.
-- [x] Replace vague labels like “Works” with clearer labels.
+- [x] Replace vague labels like â€œWorksâ€ with clearer labels.
 - [x] Ensure `Book Darren` CTA appears in nav.
 - [x] Make mobile menu clean and accessible.
 
@@ -902,7 +902,7 @@ Contact
 
 ---
 
-# Phase 11 — Contact and Booking Flow
+# Phase 11 â€” Contact and Booking Flow
 
 ## 20. Improve `/book-darren//` or Create `/book-darren//`
 
@@ -941,7 +941,7 @@ Bring Dr. Darren Pulsipher to your next executive event, university program, con
 
 ---
 
-# Phase 12 — On-Page SEO Standards
+# Phase 12 â€” On-Page SEO Standards
 
 ## 21. Global SEO Rules
 
@@ -955,7 +955,7 @@ Primary Keyword | Dr. Darren Pulsipher
 
 ### Meta Description Rules
 
-- 140–160 characters where practical.
+- 140â€“160 characters where practical.
 - Include AI/speaker/topic keywords.
 - Include audience or outcome.
 
@@ -963,7 +963,7 @@ Primary Keyword | Dr. Darren Pulsipher
 
 - One H1 per page.
 - H2s should describe page sections clearly.
-- Avoid vague headings like “Learn More.”
+- Avoid vague headings like â€œLearn More.â€
 
 ### Internal Linking Rules
 
@@ -983,7 +983,7 @@ Every major page should link to:
 
 ---
 
-# Phase 13 — AI Visibility / GEO Standards
+# Phase 13 â€” AI Visibility / GEO Standards
 
 ## 22. LLM-Friendly Content Rules
 
@@ -1005,7 +1005,7 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 
 - [x] Add concise definitions to resource and keynote pages.
 - [x] Add FAQ sections with direct answers.
-- [x] Add “Related Topics” blocks.
+- [x] Add â€œRelated Topicsâ€ blocks.
 - [x] Add schema.
 - [x] Add llms.txt.
 
@@ -1016,18 +1016,18 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 
 ---
 
-# Phase 14 — Redirects and Cleanup
+# Phase 14 â€” Redirects and Cleanup
 
 ## 23. Fix Existing Content Issues
 
 ### Known Issues
 
-- [x] Update “Chief Solution Architect” to current preferred title.
+- [x] Update â€œChief Solution Architectâ€ to current preferred title.
 - [x] Remove duplicate sentence on podcast page.
-- [x] Replace generic “Speaker, Innovator, Motivator.”
-- [x] Review all “Book Now” buttons for correct destination.
-- [x] Fix inconsistent navigation label: “Speaker” vs “Speaking.”
-- [x] Fix typo: “What to find out more?” should be “Want to find out more?”
+- [x] Replace generic â€œSpeaker, Innovator, Motivator.â€
+- [x] Review all â€œBook Nowâ€ buttons for correct destination.
+- [x] Fix inconsistent navigation label: â€œSpeakerâ€ vs â€œSpeaking.â€
+- [x] Fix typo: â€œWhat to find out more?â€ should be â€œWant to find out more?â€
 - [~] Review all pages for grammar, spacing, and punctuation.
 - [~] Update copyright and business entity text if needed.
 
@@ -1037,7 +1037,7 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 
 ---
 
-# Phase 15 — Analytics and Measurement
+# Phase 15 â€” Analytics and Measurement
 
 ## 24. Add Conversion Tracking
 
@@ -1066,7 +1066,7 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 
 # Recommended Implementation Order
 
-## Sprint 1 — Immediate Conversion Fixes
+## Sprint 1 â€” Immediate Conversion Fixes
 
 - [x] Homepage hero rewrite.
 - [x] Credibility bar.
@@ -1075,14 +1075,14 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 - [x] Fix podcast duplicate/outdated title.
 - [x] Footer links.
 
-## Sprint 2 — Core Speaker Pages
+## Sprint 2 â€” Core Speaker Pages
 
 - [x] `/keynotes/`
 - [x] Six keynote detail pages.
 - [x] `/workshops/`
 - [x] `/workshops/executive-aaos-workshop/`
 
-## Sprint 3 — Authority and AI Visibility
+## Sprint 3 â€” Authority and AI Visibility
 
 - [x] `/about/dr-darren-pulsipher/`
 - [x] `/media-kit/`
@@ -1091,14 +1091,14 @@ AI-augmented leadership is the practice of using AI to improve decision quality,
 - [x] Website schema.
 - [x] FAQ schema.
 
-## Sprint 4 — Books and Resources
+## Sprint 4 â€” Books and Resources
 
 - [x] `/books/`
 - [x] `/books/ai-augmented-teams/`
 - [x] `/resources/`
 - [x] First 4 resource articles.
 
-## Sprint 5 — Polish and Measurement
+## Sprint 5 â€” Polish and Measurement
 
 - [x] Testimonials.
 - [x] Featured organizations.
@@ -1125,3 +1125,4 @@ The implementation is complete when:
 - [x] Resources section supports SEO and AI visibility.
 - [x] Cross-links connect drdarrenspeaks.com, paidar.ai, and embracingdigital.org.
 - [~] Analytics can track booking intent.
+
