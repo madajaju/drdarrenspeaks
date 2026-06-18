@@ -45,6 +45,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    const navShell = nav?.querySelector('ul');
+    if (navShell) {
+        navShell.innerHTML = `
+            <li><a href="/">Home</a></li>
+            <li><a href="/keynotes/">Keynotes</a></li>
+            <li><a href="/workshops/">Workshops</a></li>
+            <li><a href="/books/">Books</a></li>
+            <li><a href="/media-kit/">Media Kit</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/book-darren/">Book Dr. Darren</a></li>
+        `;
+    }
+
     // Close mobile menu when clicking a link
     const navLinks = document.querySelectorAll('nav a');
     navLinks.forEach(link => {
@@ -106,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
         button.addEventListener('click', async () => {
             const sourceSelector = button.getAttribute('data-copy-source');
             const source = sourceSelector ? document.querySelector(sourceSelector) : null;
-            const text = source ? source.innerText.trim() : (button.getAttribute('data-copy-text') || '').trim();
+            const text = (button.getAttribute('data-copy-text') || source?.textContent || '').trim();
             const originalText = button.getAttribute('data-original-text') || button.textContent.trim();
 
             if (!button.getAttribute('data-original-text')) {
@@ -153,7 +166,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'a[href="/workshops/"]',
         'a[href="/books/"]',
         'a[href="/testimonials/"]',
-        'a[href="/podcasts/"]'
+        'a[href="/podcasts/"]',
+        'a[href="/speaking/"]'
     ];
     document.querySelectorAll(commonCtaSelectors.join(',')).forEach(element => {
         if (element.dataset.trackAttached === 'true') {
