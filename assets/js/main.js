@@ -54,6 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <li><a href="/books/">Books</a></li>
             <li><a href="/media-kit/">Media Kit</a></li>
             <li><a href="/about/">About</a></li>
+            <li><a href="/newsletter/">Newsletter</a></li>
             <li><a href="/book-darren/">Book Dr. Darren</a></li>
         `;
     }
@@ -167,6 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'a[href="/books/"]',
         'a[href="/testimonials/"]',
         'a[href="/podcasts/"]',
+        'a[href="/newsletter/"]',
         'a[href="/speaking/"]'
     ];
     document.querySelectorAll(commonCtaSelectors.join(',')).forEach(element => {
