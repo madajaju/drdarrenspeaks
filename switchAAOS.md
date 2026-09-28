@@ -207,7 +207,7 @@ Every major page should reinforce this relationship:
 ```text
 Dr. Darren Pulsipher
   â†’ creator of AAOS
-  â†’ author of AI-Augmented Teams
+  â†’ author of the AI-Augmented Series
   â†’ host of Embracing Digital Transformation
   â†’ AI-Augmented Organizations
   â†’ Reliable, Defensible Results
@@ -378,7 +378,7 @@ Cards:
 ### Section: Book Authority
 
 H2:
-`Author of AI-Augmented Teams`
+`Author of the AI-Augmented Series`
 
 Body:
 `AI-Augmented Teams explains how teams can use AI to deliver reliable, defensible results without losing human judgment, accountability, or trust.`
@@ -975,9 +975,7 @@ Meta description:
     - Placeholder: `[VERIFY OFFICIAL TITLES]`
 
 4. `Author and Framework Builder`
-    - AI-Augmented Teams.
-    - Becoming AI-Augmented `[ADD STATUS]`.
-    - AI-Augmented Organizations `[ADD STATUS]`.
+    - AI-Augmented Series: Becoming AI-Augmented, AI-Augmented Teams, and AI-Augmented Organizations. All available now.
     - Earlier technical books.
 
 5. `Podcast and Media Reach`
@@ -1046,8 +1044,8 @@ CTAs:
 
 ### Add Related Book Placeholders
 
-- `Becoming AI-Augmented` `[ADD STATUS: coming soon / available / manuscript in progress]`
-- `AI-Augmented Organizations` `[ADD STATUS]`
+- `Becoming AI-Augmented` `[AVAILABLE NOW]`
+- `AI-Augmented Organizations` `[AVAILABLE NOW]`
 
 ### Older Books Section
 
@@ -1222,7 +1220,7 @@ Meta description:
 6. `Intro Script for Event Planners`
 
 Placeholder copy:
-`Please welcome Dr. Darren Pulsipher, creator of AAOS, the AI-Augmented Operating System, author of AI-Augmented Teams, Vanderbilt faculty member, podcast host, and enterprise technology leader helping organizations deliver reliable, defensible results at the speed of AI.`
+`Please welcome Dr. Darren Pulsipher, creator of AAOS, the AI-Augmented Operating System, author of the AI-Augmented Series, Vanderbilt faculty member, podcast host, and enterprise technology leader helping organizations deliver reliable, defensible results at the speed of AI.`
 
 7. `Download Full Media Kit`
     - Link: `[ADD PDF MEDIA KIT URL]`

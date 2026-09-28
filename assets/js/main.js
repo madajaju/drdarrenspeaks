@@ -29,6 +29,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // Keep the cross-site AI-Augmented funnel attributable without requiring
+    // every static page link to carry its own campaign parameters.
+    document.querySelectorAll('a[href*="paidar.ai"], a[href*="ai-augmented.ai"]').forEach(link => {
+        try {
+            const destination = new URL(link.href);
+            destination.searchParams.set('utm_source', 'drdarrenspeaks');
+            destination.searchParams.set('utm_medium', 'referral');
+            destination.searchParams.set('utm_campaign', 'ai_augmented_series');
+            link.href = destination.toString();
+        } catch (error) {
+            // Ignore malformed or non-HTTP links.
+        }
+    });
+
     if (navToggle && nav) {
         navToggle.addEventListener('click', () => {
             nav.classList.toggle('active');
@@ -207,6 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     `Audience size: ${get('audience_size')}`,
                     `Budget range: ${get('budget_range')}`,
                     `Topic of interest: ${get('topic')}`,
+                    `Books for your event: ${get('books_for_event')}`,
                     '',
                     'Message:',
                     get('message')

@@ -2,7 +2,7 @@ Dr. Darren W. Pulsipher is an internationally recognized enterprise architect, t
 
 As a Chief Enterprise Architect, Darren advises organizations on artificial intelligence, enterprise architecture, cloud computing, cybersecurity, data strategy, edge computing, and digital transformation. His leadership experience includes serving as a Chief Information Officer, Director of Engineering, Chief Solution Architect, and Chief Enterprise Architect, giving him a unique perspective that bridges executive strategy with technical execution.
 
-Darren is the author of AI-Augmented Teams: How Teams Deliver Reliable, Defensible Results with AI, a practical guide for organizations seeking to harness AI while maintaining accountability, governance, and trust. His work emphasizes the importance of combining human judgment with AI capabilities to create systems that can deliver decisions and outcomes at the speed and scale demanded by modern organizations.
+Darren is the author of the completed AI-Augmented Series: Becoming AI-Augmented, AI-Augmented Teams, and AI-Augmented Organizations. Together, the books provide a practical path from individual AI judgment to reliable team delivery and enterprise scale while maintaining accountability, governance, and trust.
 
 He is also the host of the highly regarded Embracing Digital Transformation podcast, where he has interviewed hundreds of leaders, innovators, researchers, and practitioners from around the world. Through the podcast and his speaking engagements, Darren explores the technologies, leadership principles, and organizational practices shaping the future of business and government.
 

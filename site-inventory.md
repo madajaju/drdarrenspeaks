@@ -81,9 +81,7 @@ The site was also carrying too much methodology-first language. That material is
 Captured and reused prominently:
 `Intel Public Sector Chief Enterprise Architect`
 `Vanderbilt University Faculty`
-`Author of AI-Augmented Teams`
-`Author of Becoming AI-Augmented`
-`Author of AI-Augmented Organizations`
+`Author of the AI-Augmented Series`
 `Author of Secrets of the Change Agent`
 `Host of Embracing Digital Transformation`
 `200K+ YouTube subscribers`

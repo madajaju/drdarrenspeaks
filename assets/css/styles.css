@@ -664,6 +664,27 @@ section {
     font-size: 0.95rem;
 }
 
+.book-cover-trio {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    align-items: end;
+}
+
+.book-cover-trio img {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: contain;
+    border-radius: 10px;
+    background: #f6f7fb;
+    padding: 0.25rem;
+    border: 1px solid var(--border-color);
+}
+
+.series-cta {
+    background: linear-gradient(135deg, #eef2f7, #ffffff);
+}
+
 /* Footer */
 footer {
     background-color: var(--primary-color);

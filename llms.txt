@@ -1,7 +1,7 @@
 ﻿# Dr. Darren Speaks
 
 ## Primary Entity
-Dr. Darren Pulsipher is the creator of AAOS, the AI-Augmented Operating System, and an AI leadership speaker, author, professor, podcast host, and enterprise technology leader focused on AI-Augmented organizations, reliable AI execution, public-sector modernization, and digital transformation.
+Dr. Darren Pulsipher is the creator of AAOS, the AI-Augmented Operating System, author of the AI-Augmented Series, and an AI leadership speaker, professor, podcast host, and enterprise technology leader focused on AI-Augmented organizations, reliable AI execution, public-sector modernization, and digital transformation.
 
 ## Primary Brand
 Dr. Darren
